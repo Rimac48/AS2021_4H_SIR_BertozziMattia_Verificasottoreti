@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2021_4H_SIR_BertozziMattia_Verificasottoreti", "AS2021_4H_SIR_BertozziMattia_Verificasottoreti\AS2021_4H_SIR_BertozziMattia_Verificasottoreti.csproj", "{C96C1CC2-82D1-4863-8711-50416D4F44A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2021_4H_SIR_BertozziMattia_Test", "AS2021_4H_SIR_BertozziMattia_Test\AS2021_4H_SIR_BertozziMattia_Test.csproj", "{A7C8DBD1-8EE7-494F-BFF8-02586747C87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96C1CC2-82D1-4863-8711-50416D4F44A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96C1CC2-82D1-4863-8711-50416D4F44A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96C1CC2-82D1-4863-8711-50416D4F44A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96C1CC2-82D1-4863-8711-50416D4F44A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C8DBD1-8EE7-494F-BFF8-02586747C87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C8DBD1-8EE7-494F-BFF8-02586747C87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C8DBD1-8EE7-494F-BFF8-02586747C87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C8DBD1-8EE7-494F-BFF8-02586747C87F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC89B23C-B03C-449C-8144-C0AF6B1EAA21}
+	EndGlobalSection
+EndGlobal
